@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VagasConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+327bd1de4f6c78cf4433b2323201700201640894")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c6435f9edd812c96bb77a7799980c9d58d9e23d")]
 [assembly: System.Reflection.AssemblyProductAttribute("VagasConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VagasConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
